@@ -1,6 +1,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=edityomurti&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="edityomurti's GitHub Stats" />
 
-[![edityomurti's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edityomurti)](https://wakatime.com/@edityomurti)
+<!-- [![edityomurti's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edityomurti)](https://wakatime.com/@edityomurti) -->
 
 
 <!--
